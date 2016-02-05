@@ -1,0 +1,6 @@
+[ 2016-02-05T06:43:20+08:00 ] ::1 /example/__public__/BOOTSTRAO/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000501s ]
+ERR: 无法加载模块:__public__
+
